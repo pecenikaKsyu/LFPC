@@ -1,0 +1,7 @@
+a d
+S A B C
+S
+S -> dB | A
+A -> d | dS | aBdAB
+B -> a | dA | A | $
+C -> Aa

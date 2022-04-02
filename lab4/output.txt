@@ -1,0 +1,9 @@
+Start symbol: S
+S -> d | DS | DB | CE
+B -> CE | DA | DS | d | a
+G -> CE | DS | d | AB
+A -> d | DS | CE
+E -> DG | BF
+F -> DG
+D -> d
+C -> a
